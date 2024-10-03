@@ -24,7 +24,8 @@
 - 👯 I’m available for **freelancing and open to job opportunities**.
 - 💬 Ask me about **React, Node.js, Apache Kafka, and Docker**.
 - 📫 Reach me at **zakariaalizouaoui@gmail.com**.
-- 📄 Here's my [Resume]([https://drive.google.com/file/d/1-iQoms-3aHgIWcGNxYADMfFD4MJonS8I/view?usp=sharing])
+- 📄 Here's my [Resume](https://drive.google.com/file/d/1-iQoms-3aHgIWcGNxYADMfFD4MJonS8I/view?usp=sharing)
+
 
 ## 🛠️ My Skills
 
