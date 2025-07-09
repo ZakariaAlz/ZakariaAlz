@@ -32,7 +32,7 @@
 ### Programming languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,hadoop,spark,powerbi,superset,hive,css,html,docker,podman,wsl2,kafka,mongodb,figma,git,gitlab,vscode,idea,gcp,materialui,maven,postgres,mysql,postman,powershell,npm,linux&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,hadoop,spark,powerbi,superset,hive,css,html,docker,podman,wsl2,kafka,mongodb,figma,git,gitlab,vscode,idea,gcp,materialui,maven,postgres,mysql,postman,powershell,npm,linux,apache,prometheus,anaconda&perline=5" />
 </p>
 
 ### Connect with Me
