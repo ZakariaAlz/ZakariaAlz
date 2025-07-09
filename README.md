@@ -1,11 +1,11 @@
 <h1 align="center">
   <!-- Typing animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I%27m+Zack+Alzouaoui;Junior+Data+Engineer;Let%27s+Build+Big+Data!&center=true&size=32&duration=3000" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines= Hello,+I%27m+Zack+Alzouaoui;Junior+Data+Engineer;Let%27s+Build+Data+Pipelines+Together!&center=true&size=32&duration=3000" alt="Typing SVG"/>
   </a>
 </h1>
 
-<h3 align="center">A passionate Junior Data Engineer</h3>
+<h3 align="center">A passionate New Graduate Data Engineer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Zakaria100000&label=Profile%20views&color=0e75b6&style=flat-square" alt="ZakariaAlz" />
@@ -62,8 +62,8 @@
 
 ### Core Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,sql&perline=6" alt="Langs"/>
-  <br/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,powerbi,superset,hive,css,html,docker,podman,wsl2,kafka,mongodb,figma,git,gitlab,vscode,idea,gcp,materialui,maven,postgres,mysql,postman,powershell,npm,linux,apache,prometheus,anaconda&perline=5" />
+</p>
   <!-- Progress bars -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=cdr-pipeline&theme=algolia" alt="Project"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=nps-flink-kafka&theme=algolia" alt="Project"/>
@@ -86,7 +86,7 @@
 ### Programming languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,hadoop,spark,powerbi,superset,hive,css,html,docker,podman,wsl2,kafka,mongodb,figma,git,gitlab,vscode,idea,gcp,materialui,maven,postgres,mysql,postman,powershell,npm,linux,apache,prometheus,anaconda&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,css,html,docker,mongodb,figma,git,gitlab,vscode,idea,gcp,aws,materialui,maven,postgres,mysql,postman,powershell,npm,linux,apache,prometheus,anaconda&perline=5" />
 </p>
 
 ### Connect with Me
