@@ -1,7 +1,7 @@
 <h1 align="center">
   <!-- Typing animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines= Hello,+I%27m+Zack+Alzouaoui;Junior+Data+Engineer;Let%27s+Build+Data+Pipelines+Together!&center=true&size=32&duration=3000" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines="Hello,+I%27m+Zack+Alzouaoui;Junior+Data+Engineer;Let%27s+Build+Data+Pipelines+Together!&center=true&size=32&duration=3000" alt="Typing SVG"/>
   </a>
 </h1>
 
@@ -77,7 +77,7 @@
 
 ### Core Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,css,html,docker,mongodb,figma,git,gitlab,vscode,idea,gcp,aws,materialui,maven,postgres,mysql,postman,powershell,npm,linux,apache,prometheus,anaconda&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,css,html,docker,mongodb,figma,git,gitlab,vscode,idea,gcp,aws,materialui,maven,postgres,mysql,postman,powershell,npm,linux,prometheus,anaconda&perline=5" />
 </p>
   <!-- Progress bars -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=cdr-pipeline&theme=algolia" alt="Project"/>
