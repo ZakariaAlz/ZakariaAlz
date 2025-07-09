@@ -1,28 +1,32 @@
-name: Generate Snake Animation
+name: Generate Contribution Snake
 
 on:
-  # Run automatically every day
+  push:
+    branches: [ main ]
+    paths:
+      - '**.md'
+      - '.github/workflows/snake.yml'
   schedule:
-    - cron: "0 0 * * *"
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+    - cron: '0 0 * * *'
 
 jobs:
-  generate-snake:
+  build-snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
+      - name: Generate snake SVG
+        uses: Platane/snk@v1
         with:
-          github_user_name: ZakariaAlz
-          outputs: |
-            ./github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: github-contribution-grid-snake.svg
+          # args: '--colors "66,153,225,0.8"'   # optional: uncomment to try custom RGB(A)
 
-      - name: Commit and Push changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "github-contribution-grid-snake.svg"
-          message: "Generate GitHub contribution snake"
+      - name: Commit & Push snake
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-contribution-grid-snake.svg
+          git commit -m "chore: update contribution snake" || echo "No changes to commit"
+          git push
