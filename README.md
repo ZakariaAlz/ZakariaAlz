@@ -1,9 +1,11 @@
 <h1 align="center">
-  <!-- Typing animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I%27m+Zack+Alzouaoui;Junior+Data+Engineer;Let%27s+Build+Data+Pipelines+Together!&center=true&size=32&duration=3000" alt="Typing SVG"/>
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=32&duration=3000&pause=1000&center=true&width=800&lines=Hello%2C%20I%27m%20Zack%20Alzouaoui;Junior%20Data%20Engineer;Let%27s%20Build%20Data%20Pipelines%20Together%21"
+      alt="Typing SVG"/>
   </a>
 </h1>
+
 
 <h3 align="center">A passionate New Graduate Data Engineer</h3>
 
