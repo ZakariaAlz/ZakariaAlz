@@ -60,14 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zakariaalz&range=monthly&layout=compact&langs_count=8&theme=dark" alt="Wakatime"/>
 </p>
 
-### Core Languages & Frameworks  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,powerbi,superset,hive,css,html,docker,podman,wsl2,kafka,mongodb,figma,git,gitlab,vscode,idea,gcp,materialui,maven,postgres,mysql,postman,powershell,npm,linux,apache,prometheus,anaconda&perline=5" />
-</p>
-  <!-- Progress bars -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=cdr-pipeline&theme=algolia" alt="Project"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=nps-flink-kafka&theme=algolia" alt="Project"/>
-</p>
 
 ### Big Data & BI Tools  
 <p align="center">
@@ -83,11 +75,15 @@
 
 ## 🛠️ My Skills
 
-### Programming languages & Tools
-
+### Core Languages & Frameworks  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,css,html,docker,mongodb,figma,git,gitlab,vscode,idea,gcp,aws,materialui,maven,postgres,mysql,postman,powershell,npm,linux,apache,prometheus,anaconda&perline=5" />
 </p>
+  <!-- Progress bars -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=cdr-pipeline&theme=algolia" alt="Project"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=nps-flink-kafka&theme=algolia" alt="Project"/>
+</p>
+
 
 ### Connect with Me
 
