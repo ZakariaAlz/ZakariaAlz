@@ -3,11 +3,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Zakaria;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Zack;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-<h3 align="center">A passionate Full Stack Developer & Data Engineering Enthusiast</h3>
+<h3 align="center">A passionate Junior Data Engineer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Zakaria100000&label=Profile%20views&color=0e75b6&style=flat-square" alt="ZakariaAlz" />
@@ -19,10 +19,10 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 I’m currently working on **web and data engineering projects**.
-- 🌱 I’m learning **advanced techniques in Web Development and Data Engineering**.
-- 👯 I’m available for **freelancing and open to job opportunities**.
-- 💬 Ask me about **React, Node.js, Apache Kafka, and Docker**.
+- 🔭 I’m currently working on **Data engineering projects**.
+- 🌱 I’m learning **Apache Spark and Advanced Data Engineering Concepts**.
+- 👯 I’m always available for **freelancing and open to Data Engineering job opportunities**.
+- 💬 Ask me about **Hadooop, Spark, Python, Apache Kafka, and Podman**.
 - 📫 Reach me at **zakariaalizouaoui@gmail.com**.
 - 📄 Here's my [Resume](https://drive.google.com/file/d/1-iQoms-3aHgIWcGNxYADMfFD4MJonS8I/view?usp=sharing)
 
@@ -32,13 +32,13 @@
 ### Programming languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,css,html,docker,kafka,mongodb,figma,git,gitlab,vscode,idea,gcp,materialui,maven,postgres,mysql,postman,powershell,npm,linux&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,hadoop,spark,powerbi,superset,hive,css,html,docker,podman,wsl2,kafka,mongodb,figma,git,gitlab,vscode,idea,gcp,materialui,maven,postgres,mysql,postman,powershell,npm,linux&perline=5" />
 </p>
 
 ### Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ali-zouaoui-zakaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/zakaria-alizouaoui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ZakariaAlz" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://x.com/zouaoui54220)" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:zakariaalizouaoui@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
