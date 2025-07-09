@@ -1,0 +1,31 @@
+name: Generate GitHub contribution snake
+
+on:
+  push:
+    branches:
+      - main       # or your default branch
+    paths:
+      - '**.md'    # regenerate on README updates
+  schedule:
+    - cron: '0 0 * * *'  # daily at UTC midnight
+
+jobs:
+  build-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Run Platane/snk
+        uses: Platane/snk@v1
+        with:
+          file: github-contribution-grid-snake.svg
+          color: 'rgba(66, 153, 225, .8)'  # optional, pick your palette
+
+      - name: Commit and Push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-contribution-grid-snake.svg
+          git commit -m "chore: update snake SVG"
+          git push
