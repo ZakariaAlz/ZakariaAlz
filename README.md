@@ -36,19 +36,19 @@
       <th>★ Stars</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/ZakariaAlz/network-trend-analysis">CDR Pipeline</a></td>
+      <td><a href="https://github.com/ZakariaAlz/network-trend-analysis">Telecom CDR Data Engineering Project</a></td>
       <td>End-to-end telecom CDR Data Engineering Pipeline with Trend analysis & anomaly detection</td>
       <td><img src="https://img.shields.io/github/stars/ZakariaAlz/network-trend-analysis?style=social" alt="stars"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ZakariaAlz/Real-time-Data-Streaming-Application-for-Customer-Satisfaction">NPS Dashboard</a></td>
+      <td><a href="https://github.com/ZakariaAlz/Real-time-Data-Streaming-Application-for-Customer-Satisfaction">Telecom NPS Data Engineering Project - Stream Processing</a></td>
       <td>Real-time NPS analytics with Flink & Kafka</td>
       <td><img src="https://img.shields.io/github/stars/ZakariaAlz/Real-time-Data-Streaming-Application-for-Customer-Satisfaction
 ?style=social" alt="stars"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ZakariaAlz/Image-Captioning-Project">Admin Site</a></td>
-      <td>Microservices React/Node.js with JWT & NGINX</td>
+      <td><a href="https://github.com/ZakariaAlz/Image-Captioning-Project">Machine Learning Project</a></td>
+      <td>Machine Learning - Image Captioning</td>
       <td><img src="https://img.shields.io/github/stars/ZakariaAlz/Image-Captioning-Project?style=social" alt="stars"/></td>
     </tr>
   </table>
