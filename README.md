@@ -43,8 +43,7 @@
     <tr>
       <td><a href="https://github.com/ZakariaAlz/Real-time-Data-Streaming-Application-for-Customer-Satisfaction">Telecom NPS Data Engineering Project - Stream Processing</a></td>
       <td>Real-time NPS analytics with Flink & Kafka</td>
-      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/Real-time-Data-Streaming-Application-for-Customer-Satisfaction
-?style=social" alt="stars"/></td>
+      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/Real-time-Data-Streaming-Application-for-Customer-Satisfaction?style=social" alt="stars"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ZakariaAlz/Image-Captioning-Project">Machine Learning Project</a></td>
