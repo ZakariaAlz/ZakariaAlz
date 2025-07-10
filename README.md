@@ -59,7 +59,7 @@
 
 <p align="center">
   <!-- Animated skill bars -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zakariaalz&range=monthly&layout=compact&langs_count=8&theme=dark" alt="Wakatime"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZackaryData&range=monthly&layout=compact&langs_count=8&theme=dark" alt="Wakatime"/>
 </p>
 
 
@@ -82,8 +82,9 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,css,html,docker,mongodb,figma,git,gitlab,vscode,idea,gcp,aws,materialui,maven,postgres,mysql,postman,powershell,npm,linux,prometheus,anaconda&perline=5" />
 </p>
   <!-- Progress bars -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=cdr-pipeline&theme=algolia" alt="Project"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=nps-flink-kafka&theme=algolia" alt="Project"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=network-trend-analysis&theme=algolia" alt="Project"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=Real-time-Data-Streaming-Application-for-Customer-Satisfication&theme=algolia" alt="Project"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=Image-Captioning-Project&theme=algolia" alt="Project"/>
 </p>
 
 
