@@ -12,7 +12,6 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Zakaria100000&label=Profile%20views&color=0e75b6&style=flat-square" alt="ZakariaAlz" />
 </p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="500" height="300">
 </div>
@@ -81,12 +80,15 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,css,html,docker,mongodb,figma,git,gitlab,vscode,idea,gcp,aws,materialui,maven,postgres,mysql,postman,powershell,npm,linux,prometheus,anaconda&perline=5" />
 </p>
+
+
   <!-- Progress bars -->
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=network-trend-analysis&theme=algolia" alt="Project"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=Real-time-Data-Streaming-Application-for-Customer-Satisfaction&theme=algolia" alt="Project"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=Image-Captioning-Project&theme=algolia" alt="Project"/>
-</p>
-
+  </p>
+ 
 
 ### Connect with Me
 
