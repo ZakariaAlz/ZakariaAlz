@@ -36,19 +36,20 @@
       <th>★ Stars</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/ZakariaAlz/cdr-pipeline">CDR Pipeline</a></td>
-      <td>End-to-end telecom CDR ELT & anomaly detection</td>
-      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/cdr-pipeline?style=social" alt="stars"/></td>
+      <td><a href="https://github.com/ZakariaAlz/network-trend-analysis">CDR Pipeline</a></td>
+      <td>End-to-end telecom CDR Data Engineering Pipeline with Trend analysis & anomaly detection</td>
+      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/network-trend-analysis?style=social" alt="stars"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ZakariaAlz/nps-flink-kafka">NPS Dashboard</a></td>
+      <td><a href="https://github.com/ZakariaAlz/Real-time-Data-Streaming-Application-for-Customer-Satisfaction">NPS Dashboard</a></td>
       <td>Real-time NPS analytics with Flink & Kafka</td>
-      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/nps-flink-kafka?style=social" alt="stars"/></td>
+      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/Real-time-Data-Streaming-Application-for-Customer-Satisfaction
+?style=social" alt="stars"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ZakariaAlz/admin-site">Admin Site</a></td>
+      <td><a href="https://github.com/ZakariaAlz/Image-Captioning-Project">Admin Site</a></td>
       <td>Microservices React/Node.js with JWT & NGINX</td>
-      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/admin-site?style=social" alt="stars"/></td>
+      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/Image-Captioning-Project?style=social" alt="stars"/></td>
     </tr>
   </table>
 </div>
@@ -83,7 +84,7 @@
 </p>
   <!-- Progress bars -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=network-trend-analysis&theme=algolia" alt="Project"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=Real-time-Data-Streaming-Application-for-Customer-Satisfication&theme=algolia" alt="Project"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=Real-time-Data-Streaming-Application-for-Customer-Satisfaction&theme=algolia" alt="Project"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=Image-Captioning-Project&theme=algolia" alt="Project"/>
 </p>
 
@@ -138,4 +139,4 @@
 ---
 Credit: [Zakaria Alizouaoui](https://github.com/ZakariaAlz)
 
-Last Edited on: 10/02/2024
+Last Edited on: 10/07/2025
