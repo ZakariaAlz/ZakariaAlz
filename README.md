@@ -122,7 +122,12 @@
 
 ## 🐍 Contribution Snake & Calendar
 
-![snake gif](https://github.com/ZakariaAlz/ZakariaAlz/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ZakariaAlz/ZakariaAlz/main/github-contribution-grid-snake.svg"
+    alt="Contribution Snake" />
+</p>
+
 
 ### 🏆 GitHub Trophies
 
