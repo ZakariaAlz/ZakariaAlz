@@ -131,6 +131,8 @@
   <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Contribution Calendar" width="600"/>
 </p>
 
+![snake gif](https://github.com/ZakariaAlz/ZakariaAlz/blob/output/github-snake-dark.svg)
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
