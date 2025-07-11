@@ -54,14 +54,6 @@
 
 ---
 
-## 🛠️ Tech Stack & Animations
-
-<p align="center">
-  <!-- Animated skill bars -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZackaryData&range=monthly&layout=compact&langs_count=8&theme=dark" alt="Wakatime"/>
-</p>
-
-
 ### Big Data & BI Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
@@ -120,14 +112,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ZakariaAlz&show_icons=true&theme=dark&count_private=true&hide_title=true" width="450" alt="GitHub Stats"/>
 </p>
 
-## 🐍 Contribution Snake & Calendar
+## 🐍 Contribution Snake 
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ZakariaAlz/ZakariaAlz/main/github-contribution-grid-snake.svg"
-    alt="Contribution Snake" />
+    src="https://raw.githubusercontent.com/ZakariaAlz/ZakariaAlz/main/github-contribution-grid-snake-dark.svg"
+    alt="Dark Contribution Snake" />
 </p>
-
 
 ### 🏆 GitHub Trophies
 
