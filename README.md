@@ -35,9 +35,10 @@
       <th>★ Stars</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/ZakariaAlz/network-trend-analysis">Telecom CDR Data Engineering Project</a></td>
+      <td><a href="https://github.com/ZakariaAlz/cdr-telecom-bigdata-platform">Telecom CDR Data Engineering Project</a></td>
       <td>End-to-end telecom CDR Data Engineering Pipeline with Trend analysis & anomaly detection</td>
-      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/network-trend-analysis?style=social" alt="stars"/></td>
+      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/cdr-telecom-bigdata-platform
+            ?style=social" alt="stars"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ZakariaAlz/Real-time-Data-Streaming-Application-for-Customer-Satisfaction">Telecom NPS Data Engineering Project - Stream Processing</a></td>
@@ -76,7 +77,7 @@
 
   <!-- Progress bars -->
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=network-trend-analysis&theme=algolia" alt="Project"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=cdr-telecom-bigdata-platform&theme=algolia" alt="Project"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=Real-time-Data-Streaming-Application-for-Customer-Satisfaction&theme=algolia" alt="Project"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=Image-Captioning-Project&theme=algolia" alt="Project"/>
   </p>
