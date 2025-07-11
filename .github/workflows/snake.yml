@@ -1,7 +1,7 @@
-name: Generate Contribution Snake
+name: Generate Contribution Snake (Dark)
 
 permissions:
-  contents: write  # gives the GITHUB_TOKEN permission to push back
+  contents: write
 
 on:
   schedule:
@@ -20,17 +20,18 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
-      - name: Generate snake SVG
+      - name: Generate dark snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: "ZakariaAlz"
           outputs: |
-            github-contribution-grid-snake.svg
+            # Append ?palette=github-dark to switch to the GitHub dark theme colors
+            github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Commit & Push snake
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-contribution-grid-snake.svg
-          git commit -m "chore: update contribution snake" || echo "No changes to commit"
+          git add github-contribution-grid-snake-dark.svg
+          git commit -m "chore: update dark contribution snake" || echo "No changes to commit"
           git push
