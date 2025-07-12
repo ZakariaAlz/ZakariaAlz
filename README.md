@@ -133,18 +133,6 @@
   </a>
 </p>
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaAlz&show_icons=true&theme=algolia" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaAlz&layout=compact&theme=algolia" width="335">
-</p>
-
-<p align="center">
-  <!-- Animated GitHub stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaAlz&show_icons=true&theme=dark&count_private=true&hide_title=true" width="450" alt="GitHub Stats"/>
-</p>
-
 ## 🐍 Contribution Snake 
 
 <p align="center">
