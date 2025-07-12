@@ -103,10 +103,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakariaAlz&theme=algolia" width="800" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaAlz&show_icons=true&theme=dark&count_private=true&hide_title=true" width="450" alt="GitHub Stats"/>
-</p>
-
 
 ## 🌍 Where I’ve Built & Collaborated
 
