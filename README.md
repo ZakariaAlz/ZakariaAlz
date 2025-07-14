@@ -18,12 +18,12 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🏆 **Graduated 2025** – Engineering Degree in Software Engineering 
-- 🔭 I’m currently working on **Data engineering projects**.
-- 🌱 I’m learning **Distributed Compute, Data Modeling and Advanced Data Engineering Concepts, Data Quality, DevOps, Streaming, Advanced SQL**.  
-- 💬 Ask me about **Hadooop, Spark, Python, Apache Kafka, and Podman**.
-- 🤝 I’m **available for freelance projects** and **open to full-time Data Engineering roles**
-- 📫 Reach me at **zakariaalizouaoui@gmail.com**.
+- 🎓 **Class of 2025** — Engineering Degree in Software Engineering  
+- 🔭 Working on **Telecom CDR Big Data Pipelines** & **Real-time Streaming Analytics**  
+- 🌱 Learning **Distributed Systems**, **Data Modeling**, **Data Quality**, **DevOps**, **Streaming**, **Advanced SQL**  
+- 💬 Ask me about **Hadoop**, **Spark**, **Kafka**, **Flink**, **Podman**, **Superset**  
+- 📫 Reach me at [📧 zakariaalizouaoui@gmail.com](mailto:zakariaalizouaoui@gmail.com)  
+- 🤝 Available for freelance projects & open to full-time Data Engineering roles
 - 📄 Here's my [Resume](https://drive.google.com/file/d/1-iQoms-3aHgIWcGNxYADMfFD4MJonS8I/view?usp=sharing)
 
 ## 🚩 Quick Stats & Streaks
@@ -61,9 +61,7 @@
   </table>
 </div>
 
----
-
-## 🏗️ Stack & Toolbox
+## 🏗️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Flink-E6522C?style=for-the-badge&logo=apacheflink&logoColor=white"/>
@@ -83,7 +81,7 @@
 
 ### Core Languages & Frameworks  
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,css,html,docker,mongodb,figma,git,gitlab,vscode,idea,gcp,aws,materialui,maven,postgres,mysql,postman,powershell,npm,linux,prometheus,anaconda&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,css,html,docker,mongodb,figma,git,gitlab,vscode,idea,gcp,aws,kubernetes,nginx,materialui,maven,postgres,mysql,postman,powershell,npm,linux,prometheus,anaconda&perline=5" />
   </p>
 
   <p align="center">
@@ -112,7 +110,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZakariaAlz&theme=algolia" />
 </p>
 
-## 🤝 Connect with Me
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/zakaria-alizouaoui" target="_blank">
@@ -136,6 +134,11 @@
     src="https://raw.githubusercontent.com/ZakariaAlz/ZakariaAlz/main/github-contribution-grid-snake-dark.svg"
     alt="Dark Contribution Snake" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="480" alt="Funny Welcome GIF"/>
+</p>
+
 
 ### 🏆 GitHub Trophies
 
