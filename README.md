@@ -16,6 +16,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="500" height="300">
 </div>
 
+## <img src="https://emojis.sh/emoji/hacking-ZPqhOorC0T.gif" alt="Hacker Emoji" width="24"/> About Me
 ## 👨🏻‍💻 About Me
 
 - 🎓 **Class of 2025** — Engineering Degree in Software Engineering  
