@@ -49,9 +49,9 @@
             ?style=social" alt="stars"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ZakariaAlz/Real-time-Data-Streaming-Application-for-Customer-Satisfaction">Telecom NPS Data Engineering Project - Stream Processing</a></td>
+      <td><a href="https://github.com/ZakariaAlz/nps-realtime-analytics">Telecom NPS Data Engineering Project - Stream Processing</a></td>
       <td>Real-time NPS analytics with Flink & Kafka</td>
-      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/Real-time-Data-Streaming-Application-for-Customer-Satisfaction?style=social" alt="stars"/></td>
+      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/nps-realtime-analytics?style=social" alt="stars"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ZakariaAlz/Image-Captioning-Project">Machine Learning Project</a></td>
@@ -86,7 +86,7 @@
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=cdr-telecom-bigdata-platform&theme=algolia" alt="Project"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=Real-time-Data-Streaming-Application-for-Customer-Satisfaction&theme=algolia" alt="Project"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=nps-realtime-analytics&theme=algolia" alt="Project"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=Image-Captioning-Project&theme=algolia" alt="Project"/>
   </p>
 
