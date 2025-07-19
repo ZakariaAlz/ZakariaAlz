@@ -20,7 +20,7 @@
 
 - 🎓 **Class of 2025** — Engineering Degree in Software Engineering  
 - 🔭 Working on **Big Data Pipelines** & **Real-time Streaming Analytics**  
-- 🌱 Learning **Distributed Systems**, **Data Modeling**, **Data Quality**, **DevOps**, **Streaming**, **Advanced SQL**  
+- 🌱 Learning **Distributed Compute**, **Data Modeling**, **Data Quality**, **DevOps**, **Streaming**, **Advanced SQL**  
 - 💬 Ask me about **Hadoop**, **Spark**, **Kafka**, **Flink**, **Podman**, **Superset**  
 - 📫 Reach me at [📧 zakariaalizouaoui@gmail.com](mailto:zakariaalizouaoui@gmail.com)  
 - 🤝 Available for freelance projects & open to full-time Data Engineering roles
