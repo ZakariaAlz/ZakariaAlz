@@ -19,7 +19,7 @@
 ## 👨🏻‍💻 About Me
 
 - 🎓 **Class of 2025** — Engineering Degree in Software Engineering  
-- 🔭 Working on **Telecom CDR Big Data Pipelines** & **Real-time Streaming Analytics**  
+- 🔭 Working on **Big Data Pipelines** & **Real-time Streaming Analytics**  
 - 🌱 Learning **Distributed Systems**, **Data Modeling**, **Data Quality**, **DevOps**, **Streaming**, **Advanced SQL**  
 - 💬 Ask me about **Hadoop**, **Spark**, **Kafka**, **Flink**, **Podman**, **Superset**  
 - 📫 Reach me at [📧 zakariaalizouaoui@gmail.com](mailto:zakariaalizouaoui@gmail.com)  
