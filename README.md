@@ -22,7 +22,7 @@
 - 🔭 Working on **Big Data Pipelines** & **Real-time Streaming Analytics**  
 - 🌱 Learning **Distributed Compute**, **Data Modeling**, **Data Quality**, **DevOps**, **Streaming**, **Advanced SQL**  
 - 💬 Ask me about **Hadoop**, **Spark**, **Kafka**, **Flink**, **Podman**, **Superset**  
-- 📫 Reach me at [📧 zakariaalizouaoui@gmail.com](mailto:zakariaalizouaoui@gmail.com)  
+- 📫 Reach me at [📧 zakariaalizouaoui.dev@gmail.com](mailto:zakariaalizouaoui.dev@gmail.com)  
 - 🤝 Available for freelance projects & open to full-time Data Engineering roles
 - 📄 Here's my [Resume](https://drive.google.com/file/d/1-iQoms-3aHgIWcGNxYADMfFD4MJonS8I/view?usp=sharing)
 
