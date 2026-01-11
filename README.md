@@ -7,7 +7,7 @@
 </h1>
 
 
-<h3 align="center">A passionate Junior Data Engineer</h3>
+<h3 align="center">A Data Engineer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Zakaria100000&label=Profile%20views&color=0e75b6&style=flat-square" alt="ZakariaAlz" />
@@ -18,7 +18,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🎓 **Class of 2025** — Engineering Degree in Software Engineering  
+- 🎓 **My Job** — I'm a Data Engineer based on Algiers - Algeria   
 - 🔭 Working on **Big Data Pipelines** & **Real-time Streaming Analytics**  
 - 🌱 Learning **Distributed Compute**, **Data Modeling**, **Data Quality**, **DevOps**, **Streaming**, **Advanced SQL**  
 - 💬 Ask me about **Hadoop**, **Spark**, **Kafka**, **Flink**, **Podman**, **Superset**  
