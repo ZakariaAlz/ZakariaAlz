@@ -5,12 +5,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=32&duration=3000&pause=1000&center=true&width=800&lines=Hello%2C%20I%27m%20Zack;New%20Grad%20Data%20Engineer;Python+%7C+Kafka+%7C+Flink+%7C+Spark;Let%27s%20Build%20Data%20Pipelines%20Together%21"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=32&duration=3000&pause=1000&center=true&width=800&lines=Hello%2C%20I%27m%20Zakaria;Data+Engineer+%40+Dusens+Research;Python+%7C+Kafka+%7C+Flink+%7C+Spark+%7C+Airflow;Let%27s+Build+Data+Pipelines+Together%21"
       alt="Typing SVG"/>
   </a>
 </h1>
 
-<h3 align="center">A Junior Data Engineer</h3>
+<h3 align="center">Data Engineer — Big Data Pipelines & Real-Time Streaming</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Zakaria100000&label=Profile%20views&color=0e75b6&style=flat-square" alt="ZakariaAlz" />
@@ -18,13 +18,29 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🎓 **My Job** — I'm a Data Engineer based on Algiers - Algeria   
-- 🔭 Working on **Big Data Pipelines** & **Real-time Streaming Analytics**  
-- 🌱 Learning **Distributed Compute**, **Data Modeling**, **Data Quality**, **DevOps**, **Streaming**, **Advanced SQL**  
-- 💬 Ask me about **Hadoop**, **Spark**, **Kafka**, **Flink**, **Podman**, **Superset**  
-- 📫 Reach me at [📧 zakariaalizouaoui.dev@gmail.com](mailto:zakariaalizouaoui.dev@gmail.com)  
-- 🤝 Available for freelance projects & open to full-time Data Engineering roles
+- 💼 **Currently** — Data Engineer at **Dusens Research**, building the company's first modern data platform (medallion architecture on PostgreSQL, MinIO & Metabase) for market research analytics, based in Algiers, Algeria
+- 🔭 Previously shipped **16M+ records/day** Big Data pipelines at **Algeria Telecom** and **50K+ events/day** Kafka streaming at **Djezzy** — see [Experience](#-experience) below
+- 🌱 Learning **Distributed Compute**, **Data Modeling (Kimball)**, **Data Quality**, **Advanced SQL**, **Cloud (AWS/GCP)**
+- 💬 Ask me about **Hadoop**, **Spark**, **Kafka**, **Flink**, **Airflow**, **Superset**, **Podman**
+- 📫 Reach me at [📧 zakariaalizouaoui.dev@gmail.com](mailto:zakariaalizouaoui.dev@gmail.com)
+- 🤝 Open to full-time Data Engineering roles & freelance projects
 - 📄 Here's my [Resume](https://drive.google.com/file/d/1raDpGs_OVyKMorUCscdLTluEHjmM1ahy/view?usp=sharing)
+
+## 💼 Experience
+
+**Data Engineer** · [Dusens Research](https://dusens-research.com) — *Nov 2025 – Present*
+- Designing the company's first modern data platform: medallion architecture on PostgreSQL, MinIO & Metabase for market research analytics
+- Building ETL pipelines that normalize 500+ column survey exports into dimensional models across Brand Health Tracker & Mystery Shopper studies
+
+**Big Data Engineering Intern** · Algeria Telecom — *Feb 2025 – Jul 2025*
+- Orchestrated a Hadoop/Spark/PySpark/Hive platform processing **16M+ records/day (40GB)** — cut query time 45min → 25min (**44% faster**)
+- Built Airflow ELT pipelines (400+ fields → 40 features) and delivered **8 automated Superset/Power BI dashboards** with Prometheus alerting
+
+**Data Engineering Intern** · Djezzy — *Sep 2023 – Jan 2024*
+- Architected a **Kafka + Flink** streaming pipeline processing **50K+ events/day**, optimizing latency 2.8s → 2.3s (**18% faster**)
+- Built Grafana/Prometheus dashboards (4 NPS metrics, 30s refresh) contributing to a 1.5-point CSAT improvement
+
+**Earlier:** Full-Stack Development Intern @ TalabaStore (MERN delivery platform) · Software Engineering Intern @ Deltalog (Laravel + Matter.js simulations)
 
 ## 🚩 Quick Stats & Streaks
 
@@ -69,8 +85,9 @@ _Verified against the code in my own repos, not just a badge wishlist._
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 **Big Data & Streaming**
@@ -84,11 +101,21 @@ _Verified against the code in my own repos, not just a badge wishlist._
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 </p>
 
+**Databases & Storage**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
+</p>
+
 **BI, Monitoring & ML**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apache_Superset-3A507A?style=for-the-badge&logo=apachesuperset&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -96,14 +123,27 @@ _Verified against the code in my own repos, not just a badge wishlist._
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
+**Backend & Web**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kong_Gateway-003459?style=for-the-badge&logo=kong&logoColor=white"/>
+</p>
+
 **Infra & Tooling**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Podman-89CFF0?style=for-the-badge&logo=podman&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 ## 🐍 Language Footprint
@@ -140,7 +180,7 @@ _Verified against the code in my own repos, not just a badge wishlist._
   </a>
 </p>
 
-## 🐍 Contribution Snake 
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -150,10 +190,25 @@ _Verified against the code in my own repos, not just a badge wishlist._
   </picture>
 </p>
 
-### 🏆 GitHub Trophies
+## 🌆 3D Contributions
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZakariaAlz&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakariaAlz/ZakariaAlz/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZakariaAlz/ZakariaAlz/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/ZakariaAlz/ZakariaAlz/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  </picture>
 </p>
+
+## 🏆 Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/16M%2B_records%2Fday-processed-0e75b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/44%25_faster-query_time-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/50K%2B_events%2Fday-streamed-e6522c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/8_dashboards-shipped-f2c811?style=for-the-badge"/>
+</p>
+
+_(Real numbers from my [Experience](#-experience) section above — not generic trophy icons.)_
 
 Credit: [Zakaria Alizouaoui](https://github.com/ZakariaAlz)

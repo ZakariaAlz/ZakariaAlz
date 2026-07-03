@@ -20,18 +20,18 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
-      - name: Generate dark snake SVG
+      - name: Generate snake SVGs (dark + light)
         uses: Platane/snk@v3
         with:
           github_user_name: "ZakariaAlz"
           outputs: |
-            # Append ?palette=github-dark to switch to the GitHub dark theme colors
             github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake.svg
 
       - name: Commit & Push snake
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-contribution-grid-snake-dark.svg
-          git commit -m "chore: update dark contribution snake" || echo "No changes to commit"
+          git add github-contribution-grid-snake-dark.svg github-contribution-grid-snake.svg
+          git commit -m "chore: update contribution snake" || echo "No changes to commit"
           git push
