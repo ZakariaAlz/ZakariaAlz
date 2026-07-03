@@ -16,7 +16,11 @@
   <img src="https://komarev.com/ghpvc/?username=Zakaria100000&label=Profile%20views&color=0e75b6&style=flat-square" alt="ZakariaAlz" />
 </p>
 
-## 👨🏻‍💻 About Me
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="500" height="300">
+</div>
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="30" height="30" alt="💻"> About Me
 
 - 💼 **Currently** — Data Engineer at **Dusens Research**, building the company's first modern data platform (medallion architecture on PostgreSQL, MinIO & Metabase) for market research analytics, based in Algiers, Algeria
 - 🔭 Previously shipped **16M+ records/day** Big Data pipelines at **Algeria Telecom** and **50K+ events/day** Kafka streaming at **Djezzy** — see [Experience](#-experience) below
@@ -26,7 +30,7 @@
 - 🤝 Open to full-time Data Engineering roles & freelance projects
 - 📄 Here's my [Resume](https://drive.google.com/file/d/1raDpGs_OVyKMorUCscdLTluEHjmM1ahy/view?usp=sharing)
 
-## 💼 Experience
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30" alt="🚀"> Experience
 
 **Data Engineer** · [Dusens Research](https://dusens-research.com) — *Nov 2025 – Present*
 - Designing the company's first modern data platform: medallion architecture on PostgreSQL, MinIO & Metabase for market research analytics
@@ -42,13 +46,13 @@
 
 **Earlier:** Full-Stack Development Intern @ TalabaStore (MERN delivery platform) · Software Engineering Intern @ Deltalog (Laravel + Matter.js simulations)
 
-## 🚩 Quick Stats & Streaks
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="30" height="30" alt="🔥"> Quick Stats & Streaks
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAlz&theme=algolia&hide_border=true" alt="GitHub Streak" height="190"/>
 </p>
 
-## 🚧 Featured Projects
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" width="30" height="30" alt="🚧"> Featured Projects
 
 <div align="center">
   <table>
@@ -79,7 +83,7 @@
   </table>
 </div>
 
-## 🏗️ Tech Stack
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="30" height="30" alt="🛠️"> Tech Stack
 
 _Verified against the code in my own repos, not just a badge wishlist._
 
@@ -150,7 +154,7 @@ _Verified against the code in my own repos, not just a badge wishlist._
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
-## 🐍 Language Footprint
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="30" height="30" alt="🐍"> Language Footprint
 
 > GitHub buckets Jupyter Notebooks as their own "language," separate from Python — since most of my data engineering and ML work lives in notebooks, the stock language chart on GitHub understates how much Python I actually write. Here's what it looks like counted by project instead of raw bytes:
 
@@ -167,7 +171,7 @@ _Verified against the code in my own repos, not just a badge wishlist._
 | [AI_Attrition](https://github.com/ZakariaAlz/AI_Attrition) | Python | Notebook-based ML analysis |
 | [cafe-zack](https://github.com/ZakariaAlz/cafe-zack) / [my-portfolio](https://github.com/ZakariaAlz/my-portfolio) | TypeScript | Frontend/web projects |
 
-## 🤝 Let’s Connect
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="30" height="30" alt="🤝"> Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/zakaria-alizouaoui" target="_blank">
@@ -184,7 +188,7 @@ _Verified against the code in my own repos, not just a badge wishlist._
   </a>
 </p>
 
-## 🐍 Contribution Snake
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="30" height="30" alt="🐍"> Contribution Snake
 
 <p align="center">
   <picture>
@@ -194,7 +198,7 @@ _Verified against the code in my own repos, not just a badge wishlist._
   </picture>
 </p>
 
-## 🌆 3D Contributions
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f307/512.gif" width="30" height="30" alt="🌆"> 3D Contributions
 
 <p align="center">
   <picture>
@@ -204,7 +208,7 @@ _Verified against the code in my own repos, not just a badge wishlist._
   </picture>
 </p>
 
-## 🏆 Highlights
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="30" height="30" alt="🏆"> Highlights
 
 <p align="center">
   <img src="https://img.shields.io/badge/16M%2B_records%2Fday-processed-0e75b6?style=for-the-badge"/>
@@ -214,6 +218,12 @@ _Verified against the code in my own repos, not just a badge wishlist._
 </p>
 
 _(Real numbers from my [Experience](#-experience) section above — not generic trophy icons.)_
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="480" alt="Thanks for visiting!"/>
+</p>
+
+<p align="center"><b>Thanks for stopping by — let's build something great together!</b></p>
 
 Credit: [Zakaria Alizouaoui](https://github.com/ZakariaAlz)
 
