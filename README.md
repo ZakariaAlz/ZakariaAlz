@@ -1,20 +1,20 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&animation=fadeIn" alt="" />
+</p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=32&duration=3000&pause=1000&center=true&width=800&lines=Hello%2C%20I%27m%20Zack;New%20Grad%20Data%20Engineer;Let%27s%20Build%20Data%20Pipelines%20Together%21"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=32&duration=3000&pause=1000&center=true&width=800&lines=Hello%2C%20I%27m%20Zack;New%20Grad%20Data%20Engineer;Python+%7C+Kafka+%7C+Flink+%7C+Spark;Let%27s%20Build%20Data%20Pipelines%20Together%21"
       alt="Typing SVG"/>
   </a>
 </h1>
-
 
 <h3 align="center">A Junior Data Engineer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Zakaria100000&label=Profile%20views&color=0e75b6&style=flat-square" alt="ZakariaAlz" />
 </p>
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="500" height="300">
-</div>
 
 ## 👨🏻‍💻 About Me
 
@@ -32,7 +32,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAlz&theme=algolia&hide_border=true" alt="GitHub Streak" height="190"/>
 </p>
 
-
 ## 🚧 Featured Projects
 
 <div align="center">
@@ -45,11 +44,10 @@
     <tr>
       <td><a href="https://github.com/ZakariaAlz/cdr-telecom-bigdata-platform">Telecom CDR Data Engineering Project</a></td>
       <td>End-to-end telecom CDR Data Engineering Pipeline with Trend analysis & anomaly detection</td>
-      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/cdr-telecom-bigdata-platform
-            ?style=social" alt="stars"/></td>
+      <td><img src="https://img.shields.io/github/stars/ZakariaAlz/cdr-telecom-bigdata-platform?style=social" alt="stars"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ZakariaAlz/realtime-nps-analytics ">Telecom NPS Data Engineering Project - Event Stream Processing</a></td>
+      <td><a href="https://github.com/ZakariaAlz/realtime-nps-analytics">Telecom NPS Data Engineering Project - Event Stream Processing</a></td>
       <td>Real-time NPS analytics with Flink & Kafka</td>
       <td><img src="https://img.shields.io/github/stars/ZakariaAlz/realtime-nps-analytics?style=social" alt="stars"/></td>
     </tr>
@@ -62,53 +60,68 @@
 </div>
 
 ## 🏗️ Tech Stack
+
+_Verified against the code in my own repos, not just a badge wishlist._
+
+**Languages**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+**Big Data & Streaming**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Flink-E6522C?style=for-the-badge&logo=apacheflink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache_Superset-3A507A?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+</p>
+
+**BI, Monitoring & ML**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Superset-3A507A?style=for-the-badge&logo=apachesuperset&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Podman-89CFF0?style=for-the-badge&logo=podman&logoColor=black"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-
-## 🛠️ My Skills
-
-### Core Languages & Frameworks  
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,css,html,docker,mongodb,figma,git,gitlab,vscode,idea,gcp,aws,kubernetes,nginx,materialui,maven,postgres,mysql,postman,powershell,npm,linux,prometheus,anaconda&perline=5" />
-  </p>
-
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=cdr-telecom-bigdata-platform&theme=algolia" alt="Project"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=realtime-nps-analytics&theme=algolia" alt="Project"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakariaAlz&repo=Image-Captioning-Project&theme=algolia" alt="Project"/>
-  </p>
-
- ## 📈 GitHub Analytics
+**Infra & Tooling**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaAlz&show_icons=true&theme=algolia&count_private=true" width="440">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaAlz&layout=compact&theme=algolia" width="340">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Podman-89CFF0?style=for-the-badge&logo=podman&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
+## 🐍 Language Footprint
+
+> GitHub buckets Jupyter Notebooks as their own "language," separate from Python — since most of my data engineering and ML work lives in notebooks, the stock language chart on GitHub understates how much Python I actually write. Here's what it looks like counted by project instead of raw bytes:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakariaAlz&theme=algolia" width="800" />
+  <img src="https://img.shields.io/badge/Python-used_in_5%2F7_original_projects-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-
-## 🌍 Where I’ve Built & Collaborated
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZakariaAlz&theme=algolia" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZakariaAlz&theme=algolia" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZakariaAlz&theme=algolia" />
-</p>
+| Project | Primary Language | Notes |
+|---|---|---|
+| [cdr-telecom-bigdata-platform](https://github.com/ZakariaAlz/cdr-telecom-bigdata-platform) | Python | PySpark, Hive, Airflow DAGs, Kafka producers |
+| [realtime-nps-analytics](https://github.com/ZakariaAlz/realtime-nps-analytics) | Java + Python | Flink job in Java, Kafka data generator in Python |
+| [Image-Captioning-Project](https://github.com/ZakariaAlz/Image-Captioning-Project) | Python | TensorFlow, scikit-learn, pandas |
+| [zoomcamp-docker-terraform-workshop](https://github.com/ZakariaAlz/zoomcamp-docker-terraform-workshop) | Python | Dockerized data pipeline (uv-managed) |
+| [AI_Attrition](https://github.com/ZakariaAlz/AI_Attrition) | Python | Notebook-based ML analysis |
+| [cafe-zack](https://github.com/ZakariaAlz/cafe-zack) / [my-portfolio](https://github.com/ZakariaAlz/my-portfolio) | TypeScript | Frontend/web projects |
 
 ## 🤝 Let’s Connect
 
@@ -122,7 +135,7 @@
   <a href="https://x.com/zouaoui54220" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:zakariaalizouaoui@gmail.com">
+  <a href="mailto:zakariaalizouaoui.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -130,15 +143,12 @@
 ## 🐍 Contribution Snake 
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ZakariaAlz/ZakariaAlz/main/github-contribution-grid-snake-dark.svg"
-    alt="Dark Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakariaAlz/ZakariaAlz/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZakariaAlz/ZakariaAlz/main/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ZakariaAlz/ZakariaAlz/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  </picture>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="480" alt="Funny Welcome GIF"/>
-</p>
-
 
 ### 🏆 GitHub Trophies
 
@@ -146,6 +156,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ZakariaAlz&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
-
-_Last edited: 10/07/2025_  
 Credit: [Zakaria Alizouaoui](https://github.com/ZakariaAlz)
