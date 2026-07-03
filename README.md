@@ -55,21 +55,25 @@
     <tr>
       <th>Project</th>
       <th>Description</th>
+      <th>Tech</th>
       <th>★ Stars</th>
     </tr>
     <tr>
       <td><a href="https://github.com/ZakariaAlz/cdr-telecom-bigdata-platform">Telecom CDR Data Engineering Project</a></td>
       <td>End-to-end telecom CDR Data Engineering Pipeline with Trend analysis & anomaly detection</td>
+      <td>Python · Spark · Hadoop · Hive · Airflow · Kafka</td>
       <td><img src="https://img.shields.io/github/stars/ZakariaAlz/cdr-telecom-bigdata-platform?style=social" alt="stars"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ZakariaAlz/realtime-nps-analytics">Telecom NPS Data Engineering Project - Event Stream Processing</a></td>
       <td>Real-time NPS analytics with Flink & Kafka</td>
+      <td>Java · Flink · Kafka · Prometheus · Grafana</td>
       <td><img src="https://img.shields.io/github/stars/ZakariaAlz/realtime-nps-analytics?style=social" alt="stars"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ZakariaAlz/Image-Captioning-Project">Machine Learning Project</a></td>
-      <td>Deep learning model for generating image captions (PyTorch)</td>
+      <td>Deep learning model for generating image captions</td>
+      <td>Python · TensorFlow · scikit-learn · Pandas</td>
       <td><img src="https://img.shields.io/github/stars/ZakariaAlz/Image-Captioning-Project?style=social" alt="stars"/></td>
     </tr>
   </table>
@@ -212,3 +216,7 @@ _Verified against the code in my own repos, not just a badge wishlist._
 _(Real numbers from my [Experience](#-experience) section above — not generic trophy icons.)_
 
 Credit: [Zakaria Alizouaoui](https://github.com/ZakariaAlz)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=120&section=footer&animation=fadeIn" alt="" />
+</p>
