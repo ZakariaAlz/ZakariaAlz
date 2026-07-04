@@ -17,18 +17,22 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Hacker at laptop" width="400">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="500" height="300">
 </div>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="30" height="30" alt="💻"> About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="divider" />
 
-- 💼 **Currently** — Data Engineer at **Dusens Research**, building the company's first modern data platform (medallion architecture on PostgreSQL, MinIO & Metabase) for market research analytics, based in Algiers, Algeria
-- 🔭 Previously shipped **16M+ records/day** Big Data pipelines at **Algeria Telecom** and **50K+ events/day** Kafka streaming at **Djezzy** — see [Experience](#-experience) below
-- 🌱 Learning **Distributed Compute**, **Data Modeling (Kimball)**, **Data Quality**, **Advanced SQL**, **Cloud (AWS/GCP)**
-- 💬 Ask me about **Hadoop**, **Spark**, **Kafka**, **Flink**, **Airflow**, **Superset**, **Podman**
-- 📫 Reach me at [📧 zakariaalizouaoui.dev@gmail.com](mailto:zakariaalizouaoui.dev@gmail.com)
-- 🤝 Open to full-time Data Engineering roles & freelance projects
-- 📄 Here's my [Resume](https://drive.google.com/file/d/1raDpGs_OVyKMorUCscdLTluEHjmM1ahy/view?usp=sharing)
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="32" height="32" alt="💻"> About Me
+
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="20" height="20" alt="🚀"> **Currently** — Data Engineer at **Dusens Research**, building the company's first modern data platform (medallion architecture on PostgreSQL, MinIO & Metabase) for market research analytics, based in Algiers, Algeria
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="20" height="20" alt="📊"> Previously shipped **16M+ records/day** Big Data pipelines at **Algeria Telecom** and **50K+ events/day** Kafka streaming at **Djezzy** — see [Experience](#-experience) below
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="20" height="20" alt="🌱"> Learning **Distributed Compute**, **Data Modeling (Kimball)**, **Data Quality**, **Advanced SQL**, **Cloud (AWS/GCP)**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width="20" height="20" alt="💬"> Ask me about **Hadoop**, **Spark**, **Kafka**, **Flink**, **Airflow**, **Superset**, **Podman**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="20" height="20" alt="👋"> Reach me at [zakariaalizouaoui.dev@gmail.com](mailto:zakariaalizouaoui.dev@gmail.com)
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="20" height="20" alt="🤝"> Open to full-time Data Engineering roles & freelance projects
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2b50/512.gif" width="20" height="20" alt="⭐"> Here's my [Resume](https://drive.google.com/file/d/1raDpGs_OVyKMorUCscdLTluEHjmM1ahy/view?usp=sharing)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="divider" />
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30" alt="🚀"> Experience
 
@@ -51,6 +55,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAlz&theme=algolia&hide_border=true" alt="GitHub Streak" height="190"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="divider" />
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" width="30" height="30" alt="🚧"> Featured Projects
 
@@ -83,75 +89,34 @@
   </table>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="divider" />
+
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="30" height="30" alt="🛠️"> Tech Stack
 
-_Verified against the code in my own repos, not just a badge wishlist._
-
-**Languages**
+<p align="center"><i>Verified against the code in my own repos — not just a badge wishlist.</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,bash,postgres,mysql,mongodb,kafka,docker,kubernetes,grafana,prometheus,aws,gcp,nginx,linux,tensorflow,sklearn,anaconda,react,nodejs,express,git,github,gitlab,maven&perline=14" alt="Core tech stack" />
 </p>
 
-**Big Data & Streaming**
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Flink-E6522C?style=for-the-badge&logo=apacheflink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
+  <b>⚡ Big Data &amp; Orchestration</b><br/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 </p>
 
-**Databases & Storage**
-
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
-</p>
-
-**BI, Monitoring & ML**
-
-<p align="center">
+  <b>📊 BI, Storage &amp; Gateway</b><br/>
   <img src="https://img.shields.io/badge/Apache_Superset-3A507A?style=for-the-badge&logo=apachesuperset&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-**Backend & Web**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kong_Gateway-003459?style=for-the-badge&logo=kong&logoColor=white"/>
-</p>
-
-**Infra & Tooling**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Podman-89CFF0?style=for-the-badge&logo=podman&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="30" height="30" alt="🐍"> Language Footprint
